@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushp6557-creator/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/kushp6557-creator/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
