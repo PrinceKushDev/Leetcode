@@ -39,8 +39,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/kushp6557-creator/Leetcode/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
