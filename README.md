@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/kushp6557-creator/Leetcode/tree/master/0264-ugly-number-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/kushp6557-creator/Leetcode/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
