@@ -7,9 +7,9 @@ class Solution {
             count++;
             temp = temp.next;
         }
-        int ans =  count/2 ;
+        int ans =  count/2 +1 ;
         temp = head;
-        for(int i = 0; i < ans; i++){
+        for(int i = 1; i < ans; i++){
             temp = temp.next;
         }
         return temp;
