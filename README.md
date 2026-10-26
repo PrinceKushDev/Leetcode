@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kushp6557-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/kushp6557-creator/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kushp6557-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushp6557-creator/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/kushp6557-creator/Leetcode/tree/master/0461-hamming-distance) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kushp6557-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
