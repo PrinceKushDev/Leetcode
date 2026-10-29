@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kushp6557-creator/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kushp6557-creator/Leetcode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/kushp6557-creator/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1512-number-of-good-pairs](https://github.com/kushp6557-creator/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kushp6557-creator/Leetcode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/kushp6557-creator/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/kushp6557-creator/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kushp6557-creator/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kushp6557-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushp6557-creator/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
