@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kushp6557-creator/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushp6557-creator/Leetcode/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/kushp6557-creator/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/kushp6557-creator/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushp6557-creator/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kushp6557-creator/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kushp6557-creator/Leetcode/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/kushp6557-creator/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kushp6557-creator/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/kushp6557-creator/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/kushp6557-creator/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
