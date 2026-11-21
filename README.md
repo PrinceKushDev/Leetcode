@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kushp6557-creator/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/kushp6557-creator/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kushp6557-creator/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kushp6557-creator/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/kushp6557-creator/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1512-number-of-good-pairs](https://github.com/kushp6557-creator/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kushp6557-creator/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kushp6557-creator/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kushp6557-creator/Leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/kushp6557-creator/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kushp6557-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kushp6557-creator/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kushp6557-creator/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/kushp6557-creator/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushp6557-creator/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
