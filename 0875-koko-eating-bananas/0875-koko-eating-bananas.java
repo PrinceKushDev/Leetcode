@@ -2,7 +2,7 @@ class Solution {
     public long CalSum(int[] nums, int divisor){
         long sum = 0;
         for(int k = 0; k < nums.length; k++){
-           sum += ((long) nums[k] + divisor - 1) / divisor;
+           sum += Math.ceil((double) nums[k] / divisor);
         } return  sum;
     }
     public int minEatingSpeed(int[] nums, int h) {
