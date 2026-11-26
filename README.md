@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kushp6557-creator/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/kushp6557-creator/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3360-stone-removal-game](https://github.com/kushp6557-creator/Leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kushp6557-creator/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/kushp6557-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kushp6557-creator/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3360-stone-removal-game](https://github.com/kushp6557-creator/Leetcode/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
