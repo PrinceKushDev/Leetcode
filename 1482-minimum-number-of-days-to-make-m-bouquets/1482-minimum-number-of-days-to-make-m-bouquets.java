@@ -30,16 +30,16 @@ class Solution {
         }
         int low = min;
         int high = max;
-        int ans = -1;
+        //int ans = -1;
         while(low <= high){
             int mid =low + (high - low) / 2;
             if(NOB(arr, m , k ,mid) == true){
-                ans = mid;
+                //ans = mid;
                high = mid - 1; 
             }else{
                 low = mid + 1;
             }
         }
-        return ans;
+        return low;
     }
 }
